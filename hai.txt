@@ -1,0 +1,22 @@
+rabtha_list = [1,2,3,4,5,Rabbani]
+
+print(rabtha_list)
+
+rabtha_list[1] = 8
+
+print(rabtha_list)
+
+rabtha_list[4] = 'Gouse'
+
+print(rabtha_list)
+
+
+my_tuple = (1,2,3,55,77,'Rabtha')
+
+print(my_tuple)
+
+print(my_tuple[4])
+
+my_tuple[4] = 'Rabbani'
+
+print(my_tuple)
